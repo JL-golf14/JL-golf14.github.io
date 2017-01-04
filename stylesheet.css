@@ -20,8 +20,9 @@ body{
 	font-size: 36px;
 }
 portrait {
-	margin-top:150px;
-	margin-left:400px;
+	margin-top:15px;
+	float:right;
+	background:top right;
 	
 }
 
@@ -124,10 +125,10 @@ li {
 
 
 #ball {
-	animation: jump 1s infinite;
+	animation: @jump 1s infinite;
 }
 
-@keyframes jump {
+@keyframes @jump {
 	0% {
 		top: 0;
 	}
@@ -154,7 +155,7 @@ li {
 }
 
 #ballShadow {
-	animation: shrink 1s infinite;
+	animation: @shrink 1s infinite;
 }
 
 
