@@ -20,6 +20,11 @@ body{
 #content-professional {
 	font-size: 36px;
 }
+portrait {
+	margin-top:150px;
+	float:right;
+	
+}
 
 h1 {
 	font-size: 60px;
