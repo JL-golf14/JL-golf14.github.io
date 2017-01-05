@@ -22,9 +22,11 @@ body{
 #portrait {
 	margin-top:45px;
 	float:right;
+	width:264px;
+	height:362px;
 	background:top right;
 	margin-left:55px;
-	
+	margin-right:26px;
 }
 
 h1 {
