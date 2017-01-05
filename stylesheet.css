@@ -19,10 +19,11 @@ body{
 #content-professional {
 	font-size: 36px;
 }
-portrait {
-	margin-top:15px;
+#portrait {
+	margin-top:45px;
 	float:right;
 	background:top right;
+	margin-left:55px;
 	
 }
 
