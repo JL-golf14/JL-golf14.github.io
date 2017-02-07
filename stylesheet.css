@@ -132,7 +132,7 @@ li {
 
 
 #ball {
-	animation: 1s infinite;
+	animation: jump 1s infinite;
 }
 
 @keyframes jump {
