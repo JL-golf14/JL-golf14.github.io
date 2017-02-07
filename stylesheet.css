@@ -56,6 +56,7 @@ h4 {
 }
 
 li {
+	display:none;
 	font-size: 26px;
 	text-align: left;
 }
@@ -128,7 +129,7 @@ li {
 
 
 #ball {
-	animation: jump 1s infinite;
+	animation: 1s infinite;
 }
 
 @keyframes jump {
