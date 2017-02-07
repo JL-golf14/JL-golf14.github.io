@@ -19,6 +19,9 @@ body{
 #content-professional {
 	font-size: 36px;
 }
+#lister {display:none;
+}
+	
 #portrait {
 	margin-top:45px;
 	float:right;
